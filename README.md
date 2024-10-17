@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate software engineer from Israel</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1Mm1_hJdAcZZMv1W3flBWw&ust=1729265128523000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKio-t_clYkDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamtroyan&label=Profile%20views&color=0e75b6&style=flat" alt="adamtroyan" /> </p>
 

@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate software engineer from Israel</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamtroyan&label=Profile%20views&color=0e75b6&style=flat" alt="adamtroyan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamtroyan" alt="adamtroyan" /></a> </p>
+
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 - 🔭 I’m currently working on **RedAlertIL**
 

@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I am a tennis player & Certified guide**
 
-<h3 align="left">Connect with me: adamulyalox@gmail.com</h3>
 <p align="left">
 </p>
 

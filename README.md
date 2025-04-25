@@ -7,9 +7,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
-- 🔭 I’m currently working on **DataScoop**
-
-- 🌱 I’m currently learning **WPF, C#, Java**
+- 🌱 I’m currently learning **C#, Java**
 
 - 📫 How to reach me **adamulyalox@gmail.com**
 
